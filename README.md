@@ -1,8 +1,5 @@
 ### Welcome
 
-![car](fo2car.gif)
-![monkey](monkeypoint.gif)
-
 Currently working on a secret project, and studying CS MSc Birkbeck, College of London.
 
 That's about it.
