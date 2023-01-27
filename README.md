@@ -1,8 +1,6 @@
 ### Welcome
 
-Currently working on a secret project, and studying CS MSc Birkbeck, College of London.
-
-That's about it.
+Currently working, and researching a variety of topics.
 
 <!--
 **hngt/hngt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
